@@ -17,7 +17,7 @@ Jieun Han, Junyeong Park, Seohyun Park, Haneul Yoo, Hyungwook Jin, Xing Xie, Eve
 The dataset is covering two complementary experimental settings: (A,C) feedback receiving behavior labelled with three different uptake types (Experiment 1) and (B,D) learning-by-teaching interactions with personalized, error-mirrored LLM peers (Experiment 2).
 
 - **Experiment 1 (feedback reception / uptake profiles):** **N=119** learners, **549** feedback interactions (uptake-labelled) (`/data/experiment_1`)
-- **Experiment 2 (classroom deployment / personalized peers):** **N=57** learners, **171** sessions, **7,123** turns (`/data/experiment_2`)
+- **Experiment 2 (classroom deployment / personalized peers):** **N=57** learners, **171** sessions, **7,123** turns (`/data/experiment_2_chat`),  **171** essay data (`/data/experiment_2_essay`)
 
 ---
 
