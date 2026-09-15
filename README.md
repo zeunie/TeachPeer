@@ -1,4 +1,4 @@
-# Learner Behaviour in Learning by Teaching with Imperfect LLM Peers
+# Human Explanatory Behaviour with  an Imperfect LLM Partner
 
 This repository provides the dataset and accompanying resources for studying learner-like feedback behaviours in learning-by-teaching interactions with imperfect LLM peers.
 
@@ -6,7 +6,7 @@ This repository provides the dataset and accompanying resources for studying lea
 
 ## Paper
 ![Main figure](img/main-figure.png)
-**Learner Behaviour in Learning by Teaching with Imperfect LLM Peers**  
+**Human Explanatory Behaviour with  an Imperfect LLM Partner**  
 Jieun Han, Junyeong Park, Seohyun Park, Haneul Yoo, Hyungwook Jin, Xing Xie, Evelyne Viegas, Sean Rintel, Miran Lee, Alice Oh, So-Yeon Ahn, Fangzhao Wu  
 
 
