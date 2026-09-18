@@ -181,7 +181,7 @@ python src/3_statistical_analysis.py
 - `icap_analysis.csv`: ICAP engagement distributions
 - `cognitive_load_analysis.csv`: ANOVA results
 
-### Figures (PDF, 300 DPI)
+### Figures 
 - `distribution_comparison.pdf`: Box plots + density plots (Fig. 2 in paper)
 - `tost_equivalence.pdf`: TOST results visualization (Supplementary Fig. X)
 - `uptake_clusters.pdf`: 3D cluster visualization (Fig. 3)
@@ -213,24 +213,3 @@ The full dataset is publicly available at: https://github.com/zeunie/TeachPeer
 - 7,123 conversational turns
 - Annotated instructional strategies (κ = 0.7685)
 
-## Citation
-
-```bibtex
-[Citation will be added upon publication]
-```
-
-## License
-
-[Add license information]
-
-## Contact
-
-For questions about the code or analyses:
-- Jieun Han: jieun_han@kaist.ac.kr
-- Fangzhao Wu: fangzwu@microsoft.com
-
-## Acknowledgments
-
-This research was supported by:
-- MSIT (Ministry of Science, ICT), Korea - Global Research Support Program (RS-2024-00436680)
-- Microsoft Research Asia
