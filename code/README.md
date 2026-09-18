@@ -205,7 +205,7 @@ All random operations use `RANDOM_SEED = 42` (configurable in `config.py`)
 
 ## Data Availability
 
-The full dataset is publicly available at: https://github.com/zeunie/TeachPeer
+The full dataset is publicly available at: https://github.com/zeunie/TeachPeer/tree/main/data
 
 **Dataset includes**:
 - 115 learner interaction logs (Experiment 1)
