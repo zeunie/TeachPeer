@@ -1,8 +1,6 @@
 # Human Explanatory Behaviour with Imperfect LLM Partner
 
-This repository contains reproducible analysis code for the paper submitted to Nature Communications.
-
-**Authors**: Jieun Han, Junyeong Park, Seohyun Park, Haneul Yoo, Hyoungwook Jin, Xing Xie, Evelyne Viegas, Sean Rintel, Miran Lee, Alice Oh, So-Yeon Ahn, Fangzhao Wu
+This repository contains reproducible analysis code.
 
 ## Repository Structure
 
