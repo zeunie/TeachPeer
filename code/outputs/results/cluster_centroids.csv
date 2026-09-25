@@ -1,0 +1,4 @@
+no_uptake,successful,unsuccessful,cluster,representative_student_id,uptake_profile
+1.0,0.0,0.0,0,P001,low-uptake
+0.4444444444444444,0.2222222222222222,0.3333333333333333,1,P036,mixed-uptake
+0.14285714285714285,0.7142857142857143,0.14285714285714285,2,P030,high-uptake

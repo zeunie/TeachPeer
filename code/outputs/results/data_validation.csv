@@ -1,0 +1,5 @@
+file,rows,expected_rows,columns
+experiment_1.csv,549,549,19
+experiment_2_chat.csv,7122,7122,7
+experiment_2_essay.csv,171,171,7
+cognitive_load_data.csv,171,171,7
