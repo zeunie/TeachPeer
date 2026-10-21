@@ -1,6 +1,6 @@
 # TeachPeer code
 
-Analysis code accompanying the manuscript *Human Explanatory Behaviour with an Imperfect LLM Partner*.
+Analysis code accompanying the manuscript *Human explanatory behavior with an imperfect large language model partner*.
 
 The anonymized dataset is in the sibling folder `TeachPeer_dataset`. Copy those CSV files into `data/` or keep the two folders next to each other.
 
