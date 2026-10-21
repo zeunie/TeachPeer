@@ -1,8 +1,7 @@
 # TeachPeer dataset
 
-Anonymized data accompanying the manuscript *Human Explanatory Behaviour with an Imperfect LLM Partner*.
+Anonymized data accompanying the manuscript *Human explanatory behavior with an imperfect large language model partner*.
 
-Analysis code is in the sibling folder `TeachPeer_code`. These files are not required to run the analyses if you only want to inspect the raw data.
 
 ## Files
 
