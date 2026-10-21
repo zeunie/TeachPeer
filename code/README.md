@@ -1,13 +1,13 @@
 # TeachPeer code
 
-Analysis code accompanying the manuscript *Human Explanatory Behaviour with an Imperfect LLM Partner* (Nature Communications).
+Analysis code accompanying the manuscript *Human Explanatory Behaviour with an Imperfect LLM Partner*.
 
 The anonymized dataset is in the sibling folder `TeachPeer_dataset`. Copy those CSV files into `data/` or keep the two folders next to each other.
 
 ## Layout
 
 ```
-paper_submission_code/
+code/
 ├── src/
 │   ├── 0_prepare_data.py             # Data preparation and validation
 │   ├── 1_baseline_llm_simulation.py  # Experiment 1: baseline LLM simulation
